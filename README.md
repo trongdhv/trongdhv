@@ -3,4 +3,4 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trongdhv&label=Profile%20views&color=0e75b6&style=flat" alt="trongdhv" /> </p>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/trongdhv/trongdhv/blob/output/github-contribution-grid-snake.svg)
